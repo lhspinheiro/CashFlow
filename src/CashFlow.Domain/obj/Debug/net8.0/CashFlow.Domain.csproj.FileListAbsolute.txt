@@ -70,3 +70,4 @@ D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-BR/Cash
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/refint/CashFlow.Domain.dll
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.pdb
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/ref/CashFlow.Domain.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.sourcelink.json

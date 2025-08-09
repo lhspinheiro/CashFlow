@@ -862,3 +862,5 @@ D:/Projetos/C# projects/CashFlow/src/CashFlow.Api/bin/Debug/net8.0/runtimes/win/
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/CashFlow.Api.pdb
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/CashFlow.Api.genruntimeconfig.cache
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/ref/CashFlow.Api.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Api/obj/Debug/net8.0/CashFlow.Api.sourcelink.json
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Api/bin/Debug/net8.0/appsettings.Test.json

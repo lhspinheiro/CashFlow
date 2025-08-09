@@ -52,3 +52,4 @@ D:/Projetos/C# projects/CashFlow/src/CashFlow.Infrastructure/bin/Debug/net8.0/pt
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Infrastructure/obj/Debug/net8.0/refint/CashFlow.Infrastructure.dll
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Infrastructure/obj/Debug/net8.0/CashFlow.Infrastructure.pdb
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Infrastructure/obj/Debug/net8.0/ref/CashFlow.Infrastructure.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Infrastructure/obj/Debug/net8.0/CashFlow.Infrastructure.sourcelink.json

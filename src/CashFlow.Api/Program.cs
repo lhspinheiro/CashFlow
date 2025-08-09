@@ -4,12 +4,10 @@ using CashFlow.Api.Middleware;
 using CashFlow.Application;
 using CashFlow.Infrastructure;
 using CashFlow.Infrastructure.Migrations;
-using DocumentFormat.OpenXml.Drawing;
-using DocumentFormat.OpenXml.Wordprocessing;
-using Humanizer;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using CashFlow.Infrastructure.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -94,7 +92,10 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-await MigrateDataBase();
+if (builder.Configuration.IsTestEnvironment() == false)
+{
+    await MigrateDataBase();
+}
 
 app.Run();
 
@@ -104,3 +105,5 @@ async Task MigrateDataBase() //injeção de dependência para fazer o dotnet ef 
 
     await DataBaseMigration.MigrateDataBase(scope.ServiceProvider);   
 }
+
+public partial class Program { }
