@@ -1,0 +1,78 @@
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.deps.json
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Communication.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Domain.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Exception.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Communication.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Domain.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Exception.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.csproj.AssemblyReference.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.AssemblyInfoInputs.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.AssemblyInfo.cs
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.csproj.CoreCompileInputs.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.7372E909.Up2Date
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/refint/CashFlow.Application.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/ref/CashFlow.Application.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/logo/Picture.png
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/logo/Picture.png
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.deps.json
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Communication.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Domain.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Exception.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Communication.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Domain.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Exception.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.csproj.AssemblyReference.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.AssemblyInfoInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.AssemblyInfo.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.csproj.CoreCompileInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.csproj.CopyComplete
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/refint/CashFlow.Application.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/ref/CashFlow.Application.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/logo/Picture.png
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.deps.json
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Application.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Communication.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Domain.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Exception.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Communication.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Domain.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/CashFlow.Exception.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.csproj.AssemblyReference.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.AssemblyInfoInputs.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.AssemblyInfo.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.csproj.CoreCompileInputs.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.csproj.CopyComplete
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/refint/CashFlow.Application.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/ref/CashFlow.Application.dll

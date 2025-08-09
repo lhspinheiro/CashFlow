@@ -1,0 +1,72 @@
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.deps.json
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfoInputs.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfo.cs
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.CoreCompileInputs.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/refint/CashFlow.Domain.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/ref/CashFlow.Domain.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.resources
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.fr.resources
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.pt-PT.resources
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.GenerateResource.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.pt-BR.resources
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.deps.json
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.resources
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.fr.resources
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.pt-BR.resources
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.pt-PT.resources
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.GenerateResource.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfoInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfo.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.CoreCompileInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/fr/CashFlow.Domain.resources.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-BR/CashFlow.Domain.resources.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-PT/CashFlow.Domain.resources.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/refint/CashFlow.Domain.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/ref/CashFlow.Domain.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.deps.json
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/CashFlow.Domain.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/bin/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.resources
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.fr.resources
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.pt-BR.resources
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.Reports.ResourcerReportGenerationMessages.pt-PT.resources
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.GenerateResource.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfoInputs.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.AssemblyInfo.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.csproj.CoreCompileInputs.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/fr/CashFlow.Domain.resources.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/fr/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-BR/CashFlow.Domain.resources.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-BR/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-PT/CashFlow.Domain.resources.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/pt-PT/CashFlow.Domain.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/refint/CashFlow.Domain.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/CashFlow.Domain.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Domain/obj/Debug/net8.0/ref/CashFlow.Domain.dll

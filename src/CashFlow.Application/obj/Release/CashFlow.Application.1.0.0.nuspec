@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CashFlow.Application</id>
+    <version>1.0.0</version>
+    <authors>CashFlow.Application</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="CashFlow.Communication" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="CashFlow.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="CashFlow.Exception" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="ClosedXML" version="0.104.2" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="11.11.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="PDFsharp-MigraDoc" version="6.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Release/net8.0/CashFlow.Application.dll" target="lib/net8.0/CashFlow.Application.dll" />
+  </files>
+</package>

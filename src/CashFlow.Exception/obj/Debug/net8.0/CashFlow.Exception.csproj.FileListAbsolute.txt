@@ -1,0 +1,72 @@
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.deps.json
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.AssemblyInfoInputs.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.AssemblyInfo.cs
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.csproj.CoreCompileInputs.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/refint/CashFlow.Exception.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.pdb
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/ref/CashFlow.Exception.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.resources
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.csproj.GenerateResource.cache
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.fr.resources
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.pt-PT.resources
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+D:/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.deps.json
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.resources
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.fr.resources
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.pt-PT.resources
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.csproj.GenerateResource.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.AssemblyInfoInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.AssemblyInfo.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.csproj.CoreCompileInputs.cache
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/fr/CashFlow.Exception.resources.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-BR/CashFlow.Exception.resources.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-PT/CashFlow.Exception.resources.cs
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/refint/CashFlow.Exception.dll
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.pdb
+/media/lhspinheiro/HD/Projetos/C# projects/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/ref/CashFlow.Exception.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.deps.json
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/CashFlow.Exception.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/bin/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.resources
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.fr.resources
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.ResourceErrorMessages.pt-PT.resources
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.csproj.GenerateResource.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.AssemblyInfoInputs.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.AssemblyInfo.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.csproj.CoreCompileInputs.cache
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/fr/CashFlow.Exception.resources.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/fr/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-BR/CashFlow.Exception.resources.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-BR/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-PT/CashFlow.Exception.resources.cs
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/pt-PT/CashFlow.Exception.resources.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/refint/CashFlow.Exception.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/CashFlow.Exception.pdb
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Exception/obj/Debug/net8.0/ref/CashFlow.Exception.dll
