@@ -76,3 +76,4 @@ D:/Projetos/C# projects/CashFlow/src/CashFlow.Application/bin/Debug/net8.0/logo/
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/refint/CashFlow.Application.dll
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.pdb
 /home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/ref/CashFlow.Application.dll
+/home/lhspinheiro/Documentos/CashFlow/src/CashFlow.Application/obj/Debug/net8.0/CashFlow.Application.sourcelink.json
