@@ -49,5 +49,23 @@ public class DoLoginTest : IClassFixture<CustomWebApplicationFactory>
         responseData.RootElement.GetProperty("token").GetString().Should().NotBeNullOrWhiteSpace();
     }
 
+    [Theory]
+    [ClassData(typeof(CultureInlineDataTest))]
+    public async Task Error_Login_Invalid(string culture)
+    {
+        var request = RequestLoginJsonBuilder.Build();
+        
+        _httpClientclient.DefaultRequestHeaders.AcceptLanguage.Add(new StringWithQualityHeaderValue(culture));
+        var response = await _httpClientclient.PostAsJsonAsync(METHOD, request);
+        response.StatusCode.Should().Be(HttpStatusCode.Unauthorized);
+        
+        var responseBody = await response.Content.ReadAsStreamAsync();
+        var responseData = await JsonDocument.ParseAsync(responseBody);
+        
+        var errors = responseData.RootElement.GetProperty("errorMessages").EnumerateArray();
 
+        var expectedMessage = ResourceErrorMessages.ResourceManager.GetString("EMAIL_OR_PASSWORD_INVALID", new CultureInfo(culture));
+        errors.Should().HaveCount(1).And.Contain(error => error.GetString()!.Equals(expectedMessage));
+        
+    }
 }
