@@ -6,6 +6,7 @@ using System.Text.Json;
 using CashFlow.Exception;
 using CommonTestUtilities.Requests;
 using FluentAssertions;
+using WebApi.Test.InlineData;
 using Xunit;
 
 namespace WebApi.Test.Users.Register;
@@ -38,17 +39,13 @@ public class RegisterUserTest : IClassFixture<CustomWebApplicationFactory>
     }
     
     [Theory]
-    [InlineData("en")]
-    [InlineData("fr")]
-    [InlineData("pt-BR")]
-    [InlineData("pt-PT")]
+    [ClassData(typeof(CultureInlineDataTest))]
     public async Task Error_Empty_Name(string culture)
     {
         var request = RequestRegisterUserJsonBuilder.Build();
         request.Name = string.Empty;
         
-        
-        _httpClient.DefaultRequestHeaders.AcceptLanguage.Add(new StringWithQualityHeaderValue(culture)); //culture middlewware para enviar na request o idioma inglês
+        _httpClient.DefaultRequestHeaders.AcceptLanguage.Add(new StringWithQualityHeaderValue(culture)); //culture middlewware para enviar na request os idiomas
         var result = await _httpClient.PostAsJsonAsync(METHOD, request);
         result.StatusCode.Should().Be(HttpStatusCode.BadRequest);
         
@@ -58,9 +55,9 @@ public class RegisterUserTest : IClassFixture<CustomWebApplicationFactory>
         
         var errors = response.RootElement.GetProperty("errorMessages").EnumerateArray();
 
-        var expenctedMessage = ResourceErrorMessages.ResourceManager.GetString("NAME_EMPTY", new CultureInfo(culture)); //pegando na resource de acorda com o idioma solicitado 
+        var expectedMessage = ResourceErrorMessages.ResourceManager.GetString("NAME_EMPTY", new CultureInfo(culture)); //pegando na resource de acorda com o idioma solicitado 
         
-        errors.Should().HaveCount(1).And.Contain(error => error.GetString()!.Equals(expenctedMessage));
+        errors.Should().HaveCount(1).And.Contain(error => error.GetString()!.Equals(expectedMessage));
     }
     
 }
