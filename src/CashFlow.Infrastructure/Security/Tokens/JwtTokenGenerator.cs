@@ -24,13 +24,14 @@ public class JwtTokenGenerator : IAccessTokenGenerator
         var claims = new List<Claim>()
         {
             new Claim(ClaimTypes.Name, user.Name),
-            new Claim(ClaimTypes.Sid, user.UserIdentifier.ToString())
+            new Claim(ClaimTypes.Sid, user.UserIdentifier.ToString()), 
+            new Claim(ClaimTypes.Role, user.Role)
         };
 
         var tokenDescriptor = new SecurityTokenDescriptor
         {
             Expires = DateTime.UtcNow.AddMinutes(_expirationTimeMinutes), //essa propriedades vai dizer quando o token vai expirar 
-            SigningCredentials = new SigningCredentials(SecurityKey(), SecurityAlgorithms.HmacSha256), //chave que utilizará 
+            SigningCredentials = new SigningCredentials(SecurityKey(), SecurityAlgorithms.HmacSha256), //chave que sera utilizada
             Subject = new ClaimsIdentity(claims)// vamos passar as propriedades desejadas no token.
         };
 

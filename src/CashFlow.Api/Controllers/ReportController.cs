@@ -2,15 +2,17 @@
 using CashFlow.Application.UseCases.Expenses.Reports.PDF;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Mime;
+using CashFlow.Domain.Enums;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CashFlow.Api.Controllers;
 [Route("api/[controller]")]
 [ApiController]
+[Authorize(Roles = Roles.ADMIN)]
 public class ReportController : ControllerBase
 {
 
    // Endpoint para gerar o excel
-
     [HttpGet("excel")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
@@ -28,7 +30,6 @@ public class ReportController : ControllerBase
 
 
     // Endpoint para gerar o PDF
-
     [HttpGet("pdf")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
