@@ -1,3 +1,4 @@
+using CashFlow.Domain.Entities;
 using CashFlow.Domain.Secutiry.Cryptography;
 using CashFlow.Domain.Secutiry.Tokens;
 using CashFlow.Infrastructure.DataAccess;
@@ -48,11 +49,25 @@ public class CustomWebApplicationFactory : WebApplicationFactory<Program>
     
     private void StartDatabase(CashFlowDbContext dbContext, IpasswordEncripter passwordEncripter)
     {
+        AddUser(dbContext, passwordEncripter);
+        AddExpense(dbContext, _user);
+        
+        dbContext.SaveChanges();
+    }
+
+    private void AddUser(CashFlowDbContext dbContext, IpasswordEncripter passwordEncripter)
+    {
         _user = UserBuilder.Build();
         _password = _user.Password;
         _user.Password = passwordEncripter.Encrypt(_user.Password);
         
         dbContext.Users.Add(_user);
-        dbContext.SaveChanges();
+    }
+
+    private void AddExpense(CashFlowDbContext dbContext, User user)
+    {
+        var expense = ExpenseBuilder.Build(user);
+        dbContext.Expenses.Add(expense);
+      
     }
 }
