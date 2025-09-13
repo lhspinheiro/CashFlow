@@ -13,6 +13,7 @@ public class GetAllExpenseTest : CashFlowClassFixture
     public GetAllExpenseTest(CustomWebApplicationFactory webApplicationFactory) : base(webApplicationFactory)
     {
         _token = webApplicationFactory.GetToken();
+       
     }
 
     [Fact]

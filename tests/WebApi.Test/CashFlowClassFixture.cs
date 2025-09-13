@@ -29,6 +29,7 @@ public class CashFlowClassFixture : IClassFixture<CustomWebApplicationFactory>
         
         return await _httpClient.GetAsync(requestUri);
     }
+    
 
     private void AuthorizeRequest(string token)
     {
