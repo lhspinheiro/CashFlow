@@ -45,7 +45,7 @@ public class GetExpenseByIdTest : CashFlowClassFixture
     [ClassData(typeof(CultureInlineDataTest))]
     public async Task Error_Expense_Not_Found(string culture)
     {
-        var result = await DoGet(requestUri: $"{METHOD}/{_expenseId+1000}", token: _token, culture: culture);
+        var result = await DoGet(requestUri: $"{METHOD}/100", token: _token, culture: culture);
         result.StatusCode.Should().Be(HttpStatusCode.NotFound);
         
         var body = await result.Content.ReadAsStreamAsync();
