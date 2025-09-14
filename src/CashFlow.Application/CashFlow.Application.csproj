@@ -11,6 +11,7 @@
     <None Remove="UseCases\Expenses\Reports\PDF\Fonts\Raleway-Regular.ttf" />
     <None Remove="UseCases\Expenses\Reports\PDF\Fonts\WorkSans-Black.ttf" />
     <None Remove="UseCases\Expenses\Reports\PDF\Fonts\WorkSans-Regular.ttf" />
+    <None Remove="UseCases\Users\Profile\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,6 +19,7 @@
     <EmbeddedResource Include="UseCases\Expenses\Reports\PDF\Fonts\Raleway-Regular.ttf" />
     <EmbeddedResource Include="UseCases\Expenses\Reports\PDF\Fonts\WorkSans-Black.ttf" />
     <EmbeddedResource Include="UseCases\Expenses\Reports\PDF\Fonts\WorkSans-Regular.ttf" />
+    <EmbeddedResource Remove="UseCases\Users\Profile\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -38,6 +40,10 @@
     <None Update="logo\Picture.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="UseCases\Users\Profile\**" />
   </ItemGroup>
 
 </Project>

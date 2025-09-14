@@ -28,11 +28,6 @@
 	
 	
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=237205b4_002D5434_002D43b8_002Da613_002D7c723737624a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="sucess" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::02D04839-9BFE-4DD7-BB4C-889B87063C1C::net8.0::WebApi.Test.Expenses.GetById.GetExpenseByIdTest.sucess&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
 	
 	
 	
@@ -44,11 +39,6 @@
 	
 	
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e0e9f26_002Dc2b9_002D4cca_002D8af9_002D079f1929cc63/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Sucess #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::02D04839-9BFE-4DD7-BB4C-889B87063C1C::net8.0::WebApi.Test.Login.DoLogin.DoLoginTest.Sucess&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
 	
 	
 	
@@ -60,11 +50,39 @@
 	
 	
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=85ee6a25_002De389_002D4818_002Da0e8_002D009bddb87bc0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Sucess" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::02D04839-9BFE-4DD7-BB4C-889B87063C1C::net8.0::WebApi.Test.Expenses.GetAll.GetAllExpenseTest.Sucess&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	

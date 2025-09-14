@@ -16,12 +16,10 @@ public class ReportController : ControllerBase
     [HttpGet("excel")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
-
-    public async Task<IActionResult> GetExcel([FromServices] IGenerateExpensesReportExcelUseCase useCase , [FromHeader] DateOnly month)
+    public async Task<IActionResult> GetExcel([FromServices] IGenerateExpensesReportExcelUseCase useCase , [FromQuery] DateOnly month)
     {
         byte[] file = await useCase.Execute(month);
-
-
+        
         if (file.Length > 0) //caso exista dados dentro da varíavel file que representa o arquivo, vai devolver o arquivo.
             return File(file, MediaTypeNames.Application.Octet, "report.xlsx");
 
@@ -33,7 +31,6 @@ public class ReportController : ControllerBase
     [HttpGet("pdf")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
-
     public async Task<IActionResult> GetPdf([FromServices] IGenerateExpensesReportPdfUseCase useCase, [FromQuery] DateOnly month)
     {
         byte[] file = await useCase.Execute(month);

@@ -20,10 +20,18 @@ public class ExpenseReadOnlyRepositoryBuilder
         return this;
     }
 
-    public ExpenseReadOnlyRepositoryBuilder GetById(User user,  Expense? expense)
+    public ExpenseReadOnlyRepositoryBuilder GetById(User user, Expense? expense)
     {
         if (expense is not null)
             _repository.Setup(repository => repository.GetById(user, expense.Id)).ReturnsAsync(expense);
+
+        return this;
+    }
+
+    public ExpenseReadOnlyRepositoryBuilder FilterByMonth(User user, List<Expense> expenses)
+    {
+        _repository.Setup(repository => repository.FilterByMonth(user, It.IsAny<DateOnly>()))//segundo parametro faz com que o mock não se preocupe com a data 
+            .ReturnsAsync(expenses); 
 
         return this;
     }

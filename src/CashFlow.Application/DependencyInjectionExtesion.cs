@@ -8,7 +8,6 @@ using CashFlow.Application.UseCases.Expenses.Reports.PDF;
 using CashFlow.Application.UseCases.Expenses.Update;
 using CashFlow.Application.UseCases.Login;
 using CashFlow.Application.UseCases.Users.Register;
-using CashFlow.Domain.Secutiry.Tokens;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CashFlow.Application;
@@ -41,8 +40,5 @@ public static class DependencyInjectionExtesion
         services.AddScoped<IGenerateExpensesReportPdfUseCase, GenerateExpensesReportPdfUseCase>();
         services.AddScoped<IRegisterUserUseCase, RegisterUserUseCase>();
         services.AddScoped<IDoLoginUSeCase, DoLoginUSeCase>();
-        
-       
-
     }
 }
