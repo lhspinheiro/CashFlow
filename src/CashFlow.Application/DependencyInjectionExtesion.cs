@@ -9,6 +9,7 @@ using CashFlow.Application.UseCases.Expenses.Update;
 using CashFlow.Application.UseCases.Login;
 using CashFlow.Application.UseCases.Users.Profile;
 using CashFlow.Application.UseCases.Users.Register;
+using CashFlow.Application.UseCases.Users.Update;
 using CashFlow.Domain.Secutiry.Tokens;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -29,8 +30,7 @@ public static class DependencyInjectionExtesion
     {
         services.AddAutoMapper(typeof(AutoMapping));
     }
-
-
+    
     private static void AddUseCase(IServiceCollection services)
     {
         services.AddScoped<IRegisterExpenseUseCase, RegisterExpenseUseCase>();
@@ -43,5 +43,6 @@ public static class DependencyInjectionExtesion
         services.AddScoped<IRegisterUserUseCase, RegisterUserUseCase>();
         services.AddScoped<IDoLoginUSeCase, DoLoginUSeCase>();
         services.AddScoped<IGetUserProfileUseCase, GetUserProfileUseCase>();
+        services.AddScoped<IUpdateUserUseCase, UpdateUserUseCase>();
     }
 }
