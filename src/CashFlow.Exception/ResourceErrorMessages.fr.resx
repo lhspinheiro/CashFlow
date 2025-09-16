@@ -164,4 +164,7 @@
   <data name="EMAIL_OR_PASSWORD_INVALID" xml:space="preserve">
     <value>Email ou adresse e-mail invalide</value>
   </data>
+  <data name="PASSWORD_DIFFERENT_CURRENT_PASSWORD" xml:space="preserve">
+    <value>Le mot de passe que vous avez saisi est différent du mot de passe actuel</value>
+  </data>
 </root>
