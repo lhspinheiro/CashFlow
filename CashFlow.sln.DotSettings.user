@@ -35,11 +35,6 @@
 	
 	
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60bc0074_002D6460_002D4be3_002D8334_002Ddf3a98c2066e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Error_Email_Exist" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::02D04839-9BFE-4DD7-BB4C-889B87063C1C::net8.0::WebApi.Test.Users.Update.UpdateUserTest.Error_Email_Exist&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
 	
 	
 	
@@ -52,11 +47,19 @@
 	
 	
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e2926028_002D41a8_002D4d5e_002D82b7_002Df7daec04b7b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Error_Email_Exist #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::02D04839-9BFE-4DD7-BB4C-889B87063C1C::net8.0::WebApi.Test.Users.Update.UpdateUserTest.Error_Email_Exist&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
