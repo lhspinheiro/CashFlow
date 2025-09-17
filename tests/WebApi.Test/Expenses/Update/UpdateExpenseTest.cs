@@ -25,7 +25,7 @@ public class UpdateExpenseTest : CashFlowClassFixture
     public async Task Sucess()
     {
         var request = RequestRegisterExpenseBuilder.Build();
-        var result = await DoUpdate(requestUri: $"{METHOD}/{_expenseId}", request: request, token: _token);
+        var result = await DoPut(requestUri: $"{METHOD}/{_expenseId}", request: request, token: _token);
         result.StatusCode.Should().Be(HttpStatusCode.NoContent);
     }
 
@@ -35,7 +35,7 @@ public class UpdateExpenseTest : CashFlowClassFixture
     {
         var request = RequestRegisterExpenseBuilder.Build();
         
-        var result = await DoUpdate(requestUri: $"{METHOD}/1000", request: request, token: _token, culture: culture);
+        var result = await DoPut(requestUri: $"{METHOD}/1000", request: request, token: _token, culture: culture);
         result.StatusCode.Should().Be(HttpStatusCode.NotFound);
         
         var body =  await result.Content.ReadAsStreamAsync();
@@ -54,7 +54,7 @@ public class UpdateExpenseTest : CashFlowClassFixture
         var request = RequestRegisterExpenseBuilder.Build();
         request.Title = string.Empty;
         
-        var result = await DoUpdate(requestUri: $"{METHOD}/{_expenseId}", request: request, token: _token, culture: culture);
+        var result = await DoPut(requestUri: $"{METHOD}/{_expenseId}", request: request, token: _token, culture: culture);
         result.StatusCode.Should().Be(HttpStatusCode.BadRequest);
         
         var body =  await result.Content.ReadAsStreamAsync();

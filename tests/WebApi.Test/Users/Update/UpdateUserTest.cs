@@ -23,7 +23,7 @@ public class UpdateUserTest : CashFlowClassFixture
     public async Task Sucess()
     {
         var request = RequestUpdateUserJsonBuilder.Build();
-        var result = await DoUpdate(requestUri: METHOD, request: request, _token);
+        var result = await DoPut(requestUri: METHOD, request: request, _token);
         result.StatusCode.Should().Be(HttpStatusCode.NoContent);
     }
 
@@ -33,7 +33,7 @@ public class UpdateUserTest : CashFlowClassFixture
     {
         var request = RequestUpdateUserJsonBuilder.Build();
         request.Name = string.Empty;
-        var result = await DoUpdate(requestUri: METHOD, request: request, _token, culture: culture);
+        var result = await DoPut(requestUri: METHOD, request: request, _token, culture: culture);
         result.StatusCode.Should().Be(HttpStatusCode.BadRequest);
         
         var body =  await result.Content.ReadAsStreamAsync();
@@ -50,7 +50,7 @@ public class UpdateUserTest : CashFlowClassFixture
     {
         var request = RequestUpdateUserJsonBuilder.Build();
         request.Email = string.Empty;
-        var result = await DoUpdate(requestUri: METHOD, request: request, _token, culture: culture);
+        var result = await DoPut(requestUri: METHOD, request: request, _token, culture: culture);
         result.StatusCode.Should().Be(HttpStatusCode.BadRequest);
         
         var body =  await result.Content.ReadAsStreamAsync();
@@ -67,7 +67,7 @@ public class UpdateUserTest : CashFlowClassFixture
     {
         var request = RequestUpdateUserJsonBuilder.Build();
         request.Email = "luis.com";
-        var result = await DoUpdate(requestUri: METHOD, request: request, _token, culture: culture);
+        var result = await DoPut(requestUri: METHOD, request: request, _token, culture: culture);
         result.StatusCode.Should().Be(HttpStatusCode.BadRequest);
         
         var body =  await result.Content.ReadAsStreamAsync();
@@ -91,7 +91,7 @@ public class UpdateUserTest : CashFlowClassFixture
         var requestUpdateUser = RequestUpdateUserJsonBuilder.Build();
         requestUpdateUser.Email = existEmail;
         
-        var resultUpdate = await DoUpdate(requestUri: METHOD, request: requestUpdateUser, _token, culture: culture);
+        var resultUpdate = await DoPut(requestUri: METHOD, request: requestUpdateUser, _token, culture: culture);
         resultUpdate.StatusCode.Should().Be(HttpStatusCode.BadRequest);
         
         var body =  await resultUpdate.Content.ReadAsStreamAsync();

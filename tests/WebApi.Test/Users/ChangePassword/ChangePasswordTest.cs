@@ -31,7 +31,7 @@ public class ChangePasswordTest : CashFlowClassFixture
         var request = RequestChangePasswordJSonBuilder.Build();
         request.Password = _password;
         
-        var response = await DoUpdate(requestUri: METHOD, request: request, token:  _token);
+        var response = await DoPut(requestUri: METHOD, request: request, token:  _token);
         response.StatusCode.Should().Be(HttpStatusCode.NoContent);
 
         var loginREquest = new RequestLoginJSon //garantir que a senha foi trocada
@@ -54,7 +54,7 @@ public class ChangePasswordTest : CashFlowClassFixture
     public async Task Error_Password_Different_Current_Password(string culture)
     {
         var request = RequestChangePasswordJSonBuilder.Build();
-        var response = await DoUpdate(requestUri: METHOD, request: request, token:  _token, culture: culture);
+        var response = await DoPut(requestUri: METHOD, request: request, token:  _token, culture: culture);
         response.StatusCode.Should().Be(HttpStatusCode.BadRequest);
         
         await using var repositoryBody = await response.Content.ReadAsStreamAsync();
