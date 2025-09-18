@@ -9,5 +9,10 @@ public class CashFlowDbContext : DbContext
 
     public DbSet<Expense> Expenses { get; set; }
     public DbSet<User> Users { get; set; }
- 
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder) //dessa forma, será criada a tabela "tags" no plural 
+    {
+        base.OnModelCreating(modelBuilder);
+        modelBuilder.Entity<Tag>().ToTable("Tags");
+    }
 }
