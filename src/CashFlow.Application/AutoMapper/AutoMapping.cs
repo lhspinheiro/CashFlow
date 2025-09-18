@@ -16,14 +16,26 @@ public class AutoMapping : Profile
     }
     private void RequestToEntity()
     {
-        CreateMap<RequestExpenseJson, Expense>();
-        CreateMap<RequestRegisterUserJson, User>().ForMember(dest => dest.Password, config => config.Ignore());
+        CreateMap<RequestRegisterUserJson, User>()
+            .ForMember(dest => dest.Password, config => config.Ignore());
+
+        CreateMap<RequestExpenseJson, Expense>()
+            .ForMember(dest => dest.Tags,
+                config => 
+                    config.MapFrom(source => source.Tags.Distinct())); //dessa forma, o distinct remove valores duplicados 
+        
+        CreateMap<CashFlow.Communication.Enums.Tag, Tag>()
+            .ForMember(dest => dest.ValueTag, 
+                config => config.MapFrom(source => source));
     }
     private void EntityToResponse()
     {
+        CreateMap<Expense, ResponseExpenseByIdJson>()
+            .ForMember(dest => dest.Tags, config =>
+                config.MapFrom(source => source.Tags.Select(tag => tag.ValueTag)));
+        
         CreateMap<Expense, ResponseRegisterExpense>();
         CreateMap<Expense, ResponseShortExpenseJson>();
-        CreateMap<Expense, ResponseExpenseByIdJson>();
         CreateMap<User, ResponseUserProfileJson>();
     }
 }
