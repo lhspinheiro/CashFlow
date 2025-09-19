@@ -1,6 +1,7 @@
 using Bogus;
 using CashFlow.Domain.Entities;
 using CashFlow.Domain.Enums;
+using Tag = CashFlow.Domain.Enums.Tag;
 
 namespace CommonTestUtilities.Entities;
 
@@ -34,6 +35,12 @@ public class ExpenseBuilder
             .RuleFor(r => r.Date, faker => faker.Date.Past())
             .RuleFor(r => r.Amount, faker => faker.Random.Decimal(min: 1, max: 1000))
             .RuleFor(r => r.paymentType, faker => faker.PickRandom<PaymentType>())
-            .RuleFor(r => r.UserId, _ => user.Id);
+            .RuleFor(r => r.UserId, _ => user.Id)
+            .RuleFor(r => r.Tags, faker => faker.Make(1, () => new CashFlow.Domain.Entities.Tag
+            {
+                id = 1,
+                ValueTag = faker.PickRandom<Tag>(),
+                ExpenseId = 1
+            }));
     }
 }
